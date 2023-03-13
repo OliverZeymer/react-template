@@ -41,6 +41,7 @@ npm run dev
 
 # Kode Eksempler
 
+### 1. Skriftligt Eksempel
 ```javascript
 import axios from "axios";
 import { useEffect, useState } from "react";
@@ -113,8 +114,22 @@ export default function useAxios(url, { needsAuth = false, token = "", needsId =
 }
 ```
 
+### Skriftligt forklaring: 
 
-Skriftligt forklaret
+
+Det her er mit "useAxios" Hook. Det bruges til at håndtere API-kald i min React-applikation. 
+
+Hooket tager et URL og et destructured optional object med nogle default values som kan indeholde krav om authorization og et ID som parametre.
+
+Hooket bruger Axios-biblioteket til at lave en GET request til det angivne URL med mulighed for authorization headers og returnerer derefter et objekt med tre states: data, error og loading.
+
+For at forklare state-håndteringen er "data" den data som er blevet hentet fra API'et, "error" vil indeholde de fejl der kan ske under API-kaldet, og "loading" vil være true eller false i forhold til om API-kaldet er i gang eller er færdigt.
+
+Hooket har også en "refreshData" funktion som kan kaldes for at få hooket til at foretage et nyt API-kald til det samme URL og opdatere mine states med den nye data.
+
+Hvis mit destructured optional object parameter indeholder "needsAuth" eller "needsId" krav vil hook'et først kontrollere om disse er opfyldt, før det foretager API-kaldet. Hvis kravene ikke er opfyldt vil hook'et sætte "loading" til false og "error" til en fejlbesked der beskriver hvad der gik galt, hvilket giver en rigtig god developer experience.
+
+Så i konklusion kan mit useAxios hook lave GET requests på en rigtig nem måde, og håndtere mine states for mig med kun en linje kode i mine komponenter.
 
 ### #2
 

@@ -41,12 +41,12 @@ npm run dev
 
 # Kode Eksempler
 
-## #1
+### #1
 
 
 Skriftligt forklaret
 
-## #2
+### #2
 
 
 Mundtligt forklaret

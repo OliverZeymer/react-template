@@ -16,9 +16,9 @@ Uddannelse: Webudvikler
 - [Kode Eksempler:](#kode-eksempler-)
 - [Build Tool](#build-tool)
 - [Tech Stack](#tech-stack)
-  * [Framework](#framework)
+  * [Frameworks](#frameworks)
   * [Libraries](#libraries)
-  * [Valgfrie opgaver ?](#valgfrie-opgaver--)
+  * [Valgfrie opgaver ?](#valgfrie-opgaver)
   * [Projekt perspektivering](#projekt-perspektivering)
 
 
@@ -38,8 +38,6 @@ npm run dev
 ```
 
 4. Til sidst hvis Vite ikke allerede har gjordt det for dig, åben http://localhost:5173 i browseren, og så er vi i gang! :)
-
-&nbsp;
 
 # Kode Eksempler:
 
@@ -62,7 +60,7 @@ Vite tilbyder en hurtigere developer experience med sin lynhurtige build time og
 
 # Tech Stack
 
-## Framework 
+## Frameworks 
 
 ### **React.js**
 
@@ -107,7 +105,7 @@ Jeg har valgt at bruge React-Toastify fordi det er en simpel og effektiv måde a
 Jeg har valgt at bruge Lucide-React ikoner i stedet for React-Icons fordi Lucide-React ikoner tilbyder et mere moderne og minimalistisk design. Lucide-React ikoner er mere tilgængelige og lette at forstå, da de er baseret på symboler og ikoner, der er let genkendelige for brugerne. Fra hvad jeg har kunne undersøge er Lucide-React ikoner lettere og mere optimerede end React-Icons, hvilket betyder, at applikationen vil blive hurtigere og mere effektiv.
 
 
-## Valgfrie opgaver ?
+## Valgfrie opgaver
 
 - A
 - B

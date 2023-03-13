@@ -27,10 +27,14 @@ npm run dev
 # Kode-Eksempler:
 
 ## #1:
+
+
 Skriftligt forklaret
 -------------
 
 ## #2: 
+
+
 Mundtligt forklaret
 -------------
 

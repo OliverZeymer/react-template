@@ -18,7 +18,7 @@ Uddannelse: Webudvikler
 - [Tech Stack](#tech-stack)
   * [Frameworks](#frameworks)
   * [Libraries](#libraries)
-  * [Valgfrie opgaver ?](#valgfrie-opgaver)
+  * [Valgfrie opgaver](#valgfrie-opgaver)
   * [Projekt perspektivering](#projekt-perspektivering)
 
 
@@ -70,7 +70,6 @@ React stiller en masse forskellige ting til rådighed som for eksempel et stort 
 
 Derudover kan man med React lave en single page applikation hvilket vil sige at man ikke er nødt til at genindlæse en helt ny html side hver gang man skifter side, hvilket gør din applikation hurtigere og får den til at føles mere smooth.
 
-&nbsp;
 
 ### **TailwindCSS**
 

@@ -117,9 +117,11 @@ export default function useAxios(url, { needsAuth = false, token = "", needsId =
 ### Skriftligt forklaring: 
 
 
-Det her er mit "useAxios" Hook. Det bruges til at håndtere API-kald i min React-applikation. 
+Det her er mit custom "useAxios" hook. Det bruges til at håndtere API-kald i min React-applikation. 
 
-Hooket tager et URL og et destructured optional object med nogle default values som kan indeholde krav om authorization og et ID som parametre.
+Jeg valgte at lave et custom hook fordi der skal bruges API-kald mange gange i applikationen og det er en rigtig nem måde at kunne bruge den samme logik henover hele applikationen, som reducerer kode duplikering og gør det nemt at vedligeholde og lave nye ting i koden senere hen.
+
+Hooket tager et URL og et destructured optional objekt med nogle default values som kan indeholde krav om authorization og et ID som parametre.
 
 Hooket bruger Axios-biblioteket til at lave en GET request til det angivne URL med mulighed for authorization headers og returnerer derefter et objekt med tre states: data, error og loading.
 

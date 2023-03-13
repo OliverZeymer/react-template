@@ -6,8 +6,6 @@ Hold: WU07
 
 Uddannelse: Webudvikler
 
-&nbsp;
-
 - [Opgave Titel - Oliver](#opgave-titel---oliver)
   * [Beskrivelse](#beskrivelse)
   * [Getting Started](#getting-started)

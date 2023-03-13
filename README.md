@@ -13,7 +13,7 @@ Uddannelse: Webudvikler
 - [Opgave Titel - Oliver](#opgave-titel---oliver)
   * [Beskrivelse](#beskrivelse)
   * [Getting Started](#getting-started)
-- [Kode Eksempler:](#kode-eksempler-)
+- [Kode Eksempler](#kode-eksempler)
 - [Build Tool](#build-tool)
 - [Tech Stack](#tech-stack)
   * [Frameworks](#frameworks)
@@ -39,7 +39,7 @@ npm run dev
 
 4. Til sidst hvis Vite ikke allerede har gjordt det for dig, åben http://localhost:5173 i browseren, og så er vi i gang! :)
 
-# Kode Eksempler:
+# Kode Eksempler
 
 ## #1
 

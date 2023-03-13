@@ -64,7 +64,7 @@ Vite tilbyder en hurtigere developer experience med sin lynhurtige build time og
 
 ### **React.js**
 
-For mig var der to muligheder, enten at skrive i frameworket **Next.js** eller **React.js**. Jeg valgte at bruge React da det er det framework som jeg har mest erfaring med og fordi da jeg gjorde mig overvejelser om projektbeskrivelsen og kravene, tænkte jeg at jeg højest sandsynligt ikke ville gøre brug af Next's ekstra funktionaliteter alligevel (så som Server Side Rendering og SEO).
+For mig var der to framework muligheder til dette projekt, enten at skrive i frameworket **Next.js** eller **React.js**. Jeg valgte at bruge React da det er det framework som jeg har mest erfaring med og fordi da jeg gjorde mig overvejelser om projektbeskrivelsen og kravene, tænkte jeg at jeg højest sandsynligt ikke ville gøre brug af Next's ekstra funktionaliteter alligevel (så som Server Side Rendering og SEO) så React er det perfekte valg for mig.
 
 React stiller en masse forskellige ting til rådighed som for eksempel et stort community som gør det rigtig nemt at finde problemløsninger, stort udvalg af npm pakker, og det er rigtig nemt at genanvende forskellige komponenter så jeg slipper for at gentage kode jeg allerede har skrevet.
 

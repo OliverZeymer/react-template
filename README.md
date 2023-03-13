@@ -61,8 +61,6 @@ Skriftligt forklaret
 Mundtligt forklaret
 
 
-&nbsp;
-
 # Build Tool
 
 ## **Vite**
@@ -71,9 +69,7 @@ Vite tilbyder en hurtigere developer experience med sin lynhurtige build time og
 
 # Tech Stack
 
-
 ## Framework 
-
 
 ### **React.js**
 
@@ -90,8 +86,6 @@ Derudover kan man med React lave en single page applikation hvilket vil sige at 
 Jeg har valgt at bruge Tailwind som mit CSS framework da jeg synes det er helt klart den bedste og mindst tidskrævende måde at skrive CSS på. I modsætning til normale CSS filer som vi kender, styler man med Tailwind direkte når man skriver sin jsx kode ved hjælp af predefinerede klasser, hvilket jeg synes er super smart og hjælper mit workflow rigtig meget.
 
 Der er også andre meget populære CSS frameworks som for eksempel Bootstrap. Bootstrap har meninger om hvordan tingene skal se ud, og man har mindre frihed til at lave noget der ser unikt ud hvorimod med Tailwind kan man lave lige hvad man kunne have lyst til på sin egen måde, så det er derfor jeg har valgt Tailwind frem for Bootstrap.
-
-&nbsp;
 
 ## Libraries
 
@@ -119,7 +113,6 @@ Jeg har valgt at bruge React-Toastify fordi det er en simpel og effektiv måde a
 
 Jeg har valgt at bruge Lucide-React ikoner i stedet for React-Icons fordi Lucide-React ikoner tilbyder et mere moderne og minimalistisk design. Lucide-React ikoner er mere tilgængelige og lette at forstå, da de er baseret på symboler og ikoner, der er let genkendelige for brugerne. Fra hvad jeg har kunne undersøge er Lucide-React ikoner lettere og mere optimerede end React-Icons, hvilket betyder, at applikationen vil blive hurtigere og mere effektiv.
 
-&nbsp;
 
 ## Valgfrie opgaver ?
 
@@ -127,7 +120,6 @@ Jeg har valgt at bruge Lucide-React ikoner i stedet for React-Icons fordi Lucide
 - B
 - C
 
-&nbsp;
 
 ## Projekt perspektivering
 

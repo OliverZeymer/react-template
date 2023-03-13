@@ -24,6 +24,18 @@ npm run dev
 
 &nbsp;
 
+#Kode-Eksempler:
+
+## Nr. 1:
+Skriftligt forklaret
+-------------
+
+## Nr. 2: 
+Mundtligt forklaret
+-------------
+
+&nbsp;
+
 # Build Tool
 
 ## **Vite**

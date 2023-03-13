@@ -12,7 +12,7 @@ Uddannelse: Webudvikler
 
 - [Opgave Titel - Oliver](#opgave-titel---oliver)
   * [Beskrivelse](#beskrivelse)
-  * [.env fil](#-env-fil)
+  * [.env fil](#env-fil)
   * [Getting Started](#getting-started)
 - [Kode Eksempler](#kode-eksempler)
 - [Build Tool](#build-tool)

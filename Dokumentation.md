@@ -12,6 +12,7 @@ Uddannelse: Webudvikler
 
 - [Opgave Titel - Oliver](#opgave-titel---oliver)
   * [Beskrivelse](#beskrivelse)
+  * [.env fil](#-env-fil)
   * [Getting Started](#getting-started)
 - [Kode Eksempler](#kode-eksempler)
 - [Build Tool](#build-tool)
@@ -27,11 +28,17 @@ Uddannelse: Webudvikler
 
 Velkommen til min eksamensopgave! I dette repository har jeg lavet min eksamensopgave med build toolen Vite og en masse andre ting, læs videre for at lære mere om hvordan man kører projektet, min tech-stack og hvordan jeg har overvejet mine valg :)
 
+## .env fil
+
+```env
+VITE_API_URI=http://localhost:4000
+```
 ## Getting Started
 
 1. Klon projektet ned på din egen maskine.
-2. Kør kommandoen `npm install` og vent på at alt er blevet installeret korrekt.
-3. Få developer serveren op og køre i terminalen:
+2. Tilføj .env filen som står ovenover i dokumentation til rooten af projektet.
+3. Kør kommandoen `npm install` og vent på at alt er blevet installeret korrekt.
+4. Få developer serveren op og køre i terminalen:
 
 ```bash
 npm run dev

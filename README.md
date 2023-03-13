@@ -6,6 +6,7 @@ Hold: WU07
 
 Uddannelse: Webudvikler
 
+
 ### List of contents
 
 
@@ -17,17 +18,19 @@ Uddannelse: Webudvikler
   * [#2](#-2)
 - [Build Tool](#build-tool)
   * [**Vite**](#--vite--)
-- [Frameworks](#tech-stack)
-  * [**React.js**](#--reactjs--)
-  * [**TailwindCSS**](#--tailwindcss--)
-- [Libraries](#libraries)
-  * [**Framer-motion**](#--framer-motion--)
-  * [**React-router**](#--react-router--)
-  * [**Axios**](#--axios--)
-  * [**React-Toastify**](#--react-toastify--)
-  * [**Lucide-react**](#--lucide-react--)
-- [Valgfrie opgaver ?](#valgfrie-opgaver--)
-- [Projekt perspektivering](#projekt-perspektivering)
+- [Tech Stack](#tech-stack)
+  * [Framework](#framework)
+    + [**React.js**](#--reactjs--)
+    + [**TailwindCSS**](#--tailwindcss--)
+  * [Libraries](#libraries)
+    + [**Framer-motion**](#--framer-motion--)
+    + [**React-router**](#--react-router--)
+    + [**Axios**](#--axios--)
+    + [**React-Toastify**](#--react-toastify--)
+    + [**Lucide-react**](#--lucide-react--)
+  * [Valgfrie opgaver ?](#valgfrie-opgaver--)
+  * [Projekt perspektivering](#projekt-perspektivering)
+
 
 
 ## Beskrivelse

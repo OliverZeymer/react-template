@@ -6,6 +6,14 @@ Hold: WU07
 
 Uddannelse: Webudvikler
 
+&nbsp;
+
+##### Table of Contents  
+[Beskrivelse](#beskrivelse)  
+[Kode Eksempler](#kode)
+[Build Tool](#build)
+[Frameworks](#frameworks)
+[Libraries](#libraries)
 ## Beskrivelse
 
 Velkommen til min eksamensopgave! I dette repository har jeg lavet min eksamensopgave med build toolen Vite og en masse andre ting, læs videre for at lære mere om hvordan man kører projektet, min tech-stack og hvordan jeg har overvejet mine valg :)
@@ -24,19 +32,18 @@ npm run dev
 
 &nbsp;
 
-# Kode-Eksempler:
+# Kode Eksempler:
 
-## #1:
+## #1
 
 
 Skriftligt forklaret
--------------
 
-## #2: 
+## #2
 
 
 Mundtligt forklaret
--------------
+
 
 &nbsp;
 
@@ -46,7 +53,7 @@ Mundtligt forklaret
 
 Vite tilbyder en hurtigere developer experience med sin lynhurtige build time og hurtige reaktionsevne. Vite bruger en moderne og optimeret development process ved hjælp af ES modules, hvilket resulterer i at det er meget hurtigere end CRA. Dette betyder, at development processsen er mere effektiv og smooth, da man som udvikler kan se ændringerne i real time mens man arbejder.
 
-# Tech Stack Frameworks
+# Frameworks
 
 ## **React.js**
 

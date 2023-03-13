@@ -8,12 +8,27 @@ Uddannelse: Webudvikler
 
 &nbsp;
 
-##### Table of Contents  
-[Beskrivelse](#beskrivelse)  
-[Kode Eksempler](#kode)
-[Build Tool](#build)
-[Frameworks](#frameworks)
-[Libraries](#libraries)
+- [Opgave Titel - Oliver](#opgave-titel---oliver)
+  * [Beskrivelse](#beskrivelse)
+  * [Getting Started](#getting-started)
+- [Kode Eksempler:](#kode-eksempler-)
+  * [#1](#-1)
+  * [#2](#-2)
+- [Build Tool](#build-tool)
+  * [**Vite**](#--vite--)
+- [Frameworks](#frameworks)
+  * [**React.js**](#--reactjs--)
+  * [**TailwindCSS**](#--tailwindcss--)
+- [Libraries](#libraries)
+  * [**Framer-motion**](#--framer-motion--)
+  * [**React-router**](#--react-router--)
+  * [**Axios**](#--axios--)
+  * [**React-Toastify**](#--react-toastify--)
+  * [**Lucide-react**](#--lucide-react--)
+- [Valgfrie opgaver ?](#valgfrie-opgaver--)
+- [Projekt perspektivering](#projekt-perspektivering)
+
+
 ## Beskrivelse
 
 Velkommen til min eksamensopgave! I dette repository har jeg lavet min eksamensopgave med build toolen Vite og en masse andre ting, læs videre for at lære mere om hvordan man kører projektet, min tech-stack og hvordan jeg har overvejet mine valg :)

@@ -24,13 +24,13 @@ npm run dev
 
 &nbsp;
 
-#Kode-Eksempler:
+# Kode-Eksempler:
 
-## Nr. 1:
+## #1:
 Skriftligt forklaret
 -------------
 
-## Nr. 2: 
+## #2: 
 Mundtligt forklaret
 -------------
 
